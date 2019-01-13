@@ -1,11 +1,2 @@
 theme: jekyll-theme-merlot
-title: Knowledge
-
-
-   <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright"><a href="#up">向上</a></p>
-        <p><a href="https://blog.iiiid.com">返回首页</a></p>
-      </footer>
-    </div>
+title:  

@@ -1,2 +1,10 @@
 theme: jekyll-theme-merlot
-title: 网站标题
+title: Knowledge
+---
+title 	网站标题
+subtitle 	网站副标题
+description 	网站描述
+author 	您的名字
+language 	网站使用的语言
+timezone 	网站时区。Hexo 默认使用您电脑的时区。时区列表。比如说：America/New_York, Japan, 和 UTC 。
+---

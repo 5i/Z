@@ -10,6 +10,9 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+
 **Bold** and _Italic_ and `Code` text
+
+  _**Bold**_
 
 [Link](url) and ![Image](src)

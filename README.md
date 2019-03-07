@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# 法律：
 
-You can use the [editor on GitHub](https://github.com/5i/Z/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## [中华人民共和国安全生产法](/docs/中华人民共和国安全生产法.md#中华人民共和国安全生产法2014年修订)
+## [中华人民共和国职业病防治法](/docs/中华人民共和国职业病防治法.md#中华人民共和国职业病防治法)
+## [中华人民共和国煤炭法](/docs/中华人民共和国煤炭法.md#中华人民共和国煤炭法)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 部门规章：
 
-### Markdown
+## [安全技术操作规程](/docs/安全技术操作规程#up)
+## [煤矿安全规程](/docs/煤矿安全规程#up)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 应急管理：
 
-```markdown
-Syntax highlighted code block
+## [应急科普](/docs/应急科普.md#应急科普)
 
-# Header 1
-## Header 2
-### Header 3
+# HTML：
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/5i/Z/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###  [实用小工具](/html/index.md#实用小工具)

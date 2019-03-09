@@ -10,6 +10,9 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+$$
+x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+$$
 
 **Bold** and _Italic_ and `Code` text
 
